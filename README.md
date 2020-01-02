@@ -56,7 +56,7 @@
   - sequence concentration, for melting curve predict
   - and more parameters from configuration file
 
-<br><br><br><br>
+<br>
 
 ---
 
@@ -245,7 +245,7 @@ Default configurations are stored in `config.h` file under `INPUT/vfold2d` path.
 
 
 
-<br><br><br>
+<br>
 
 ---
 
