@@ -18,6 +18,7 @@
   * [Configuration File](#configuration-file)
 - [vfold2d_plot](#vfold2d-plot)
 
+<br>
 
 ---
 
@@ -64,7 +65,7 @@
 
 ## Command Line Interface
 
-<img src="./images/V2.5_CLI.png" width="690">
+<img src="./images/V2.5_CLI.png" width="600">
 
 
 
