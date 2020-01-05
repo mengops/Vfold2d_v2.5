@@ -61,8 +61,6 @@
 
 ---
 
-
-
 ## Command Line Interface
 
 <img src="./images/V2.5_CLI.png" width="600">
