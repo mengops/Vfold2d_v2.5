@@ -281,8 +281,6 @@ Default configurations are stored in `config.h` file under `INPUT/vfold2d` path.
 
   
 
-  
-
 + Melting curve plot example:
 
   ```bash
