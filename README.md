@@ -254,7 +254,7 @@ Default configurations are stored in `config.h` file under `INPUT/vfold2d` path.
 
 
 
-<img src="./images/V2.5_plot.png" width="550">
+<img src="./images/V2.5_plot.png" width="450">
 
 
 
