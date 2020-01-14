@@ -242,8 +242,6 @@ Default configurations are stored in `config.h` file under `INPUT/vfold2d` path.
 | `type`           | 0             | energy parameters type         |
 | `sign`           | 0             | with/without signatures output |
 
-
-
 <br>
 
 ---
